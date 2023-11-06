@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Kanas",
+      "date": "September 21, 2026 12:19:36 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet c."
+    },
+    {
+      "id": 3,
+      "title": "Muhammed",
+      "date": "July 01, 2024 11:55:36 AM",
+      "body": " consectetur adipisicing elit. Amet corrupti facere dignissimos laborum! Numquam autem inventore vel architecto nam iure id placeat? Iste, "
+    },
+    {
+      "id": 4,
+      "title": "Supreme",
+      "date": "August 03, 2025 13:42:36 AM",
+      "body": " dignissimos laborum! Numquam autem inventore vel architecto nam consectetur adipisicing elit. Amet corrupti facere  iure id placeat? Iste, "
+    },
+    {
+      "id": 6,
+      "title": "tahlahu",
+      "date": "November 02, 2023 3:04:50 PM",
+      "body": "Name=\"newPostForm\" onSubmit={(e) => e.preventDefault()}>\n      <label htmlFor=\"postTitle\">Edit Title</label>\n      <input \n        type=\"text\" \n        required\n        value={editTitle}\n        onChange={(e) => setEditTitle(e.target.value)}\n      />\n\n      <label htmlFor=\"postBody\">Edit Body</label>\n      <textarea \n        id=\"postBody\" \n        required value={editBody} \n        onChange={(e) => setEditBody(e.target.value)} \n        />\n      <button type=\"submit\" onClick={() => handleEdit(post.id)}>Submit</button>\n      </form>"
+    },
+    {
+      "id": 7,
+      "title": "supreme",
+      "date": "November 02, 2023 3:10:55 PM",
+      "body": " are in need of small chops, call on supreme international nigeria limited,\ncall for\nBarbecue chicken,"
+    },
+    {
+      "id": 8,
+      "title": "abdul",
+      "date": "November 06, 2023 11:11:45 AM",
+      "body": "name of a muslim"
+    },
+    {
+      "id": 9,
+      "title": "electric",
+      "date": "November 06, 2023 11:45:11 AM",
+      "body": "a substance that is use to power in the world"
+    },
+    {
+      "id": 10,
+      "title": "Computer",
+      "date": "November 06, 2023 12:06:31 PM",
+      "body": "computer AS a device that can process, handle"
+    },
+    {
+      "id": 11,
+      "title": "jimoh tajudeen",
+      "date": "November 06, 2023 3:14:22 PM",
+      "body": "    \n    \n    jimoh is the surname to tajudeen"
+    },
+    {
+      "id": 13,
+      "title": "dangIte",
+      "date": "November 06, 2023 3:58:37 PM",
+      "body": "    \nreturn (\n        <DataContext.Provider value={{\n            width, search, setSearch, //header and nav\n            posts, fetchError, isLoading, searchResult, setPosts, // home\n            handleDelete, // post page\n            setEditBody,editBody, editTitle, setEditTitle, handleEdit // edit post\n"
+    },
+    {
+      "id": 14,
+      "title": "BATURE",
+      "date": "November 06, 2023 3:59:00 PM",
+      "body": "const [editTitle, setEditTitle] = useState(\"\");\n    const [editBody, setEditBody] = useState(\"\");"
+    }
+  ]
+}
